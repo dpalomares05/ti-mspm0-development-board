@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R6";"R_0603_1608Metric";1;"100k";;;
+2;"C8,C11,C12,C13,C7";"C_0805_2012Metric";5;"470nF";;;
+3;"C6,C5";"C_0603_1608Metric";2;"15pF";;;
+4;"C1,C10,C9";"C_0805_2012Metric";3;"10uF";;;
+5;"U1";"LQFP-48_7x7mm_P0.5mm";1;"MSPM0G3507SPTR";;;
+6;"C2,C14,C4,C3";"C_0603_1608Metric";4;"470nF";;;
+7;"R2,R7,R4,R8,R5";"R_0603_1608Metric";5;"5k1";;;
+8;"J1";"USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal";1;"USB_C_Receptacle_USB2.0_16P";;;
+9;"R3,R1";"R_0603_1608Metric";2;"0";;;
+10;"U3";"SOT-23-5";1;"SPX3819M5-L-3-3";;;
+11;"Y1";"Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm";1;"8MHz";;;
+12;"D1";"SOT-666";1;"USBLC6-2P6";;;
+13;"U4";"MSOP-10_3x3mm_P0.5mm";1;"CH340E";;;
+14;"U5";"LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y";1;"LIS2DH";;;
